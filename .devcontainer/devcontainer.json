@@ -1,0 +1,14 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:0-18",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "Angular.ng-template",
+        "nrwl.angular-console",
+        "esbenp.prettier-vscode",
+        "firsttris.vscode-jest-runner",
+        "dbaeumer.vscode-eslint"
+      ]
+    }
+  }
+}
